@@ -1,0 +1,43 @@
+* {
+    margin: 0 px;
+    padding: 0 px;
+}
+
+body {
+    background: #598adf;
+}
+
+header {
+    padding-top: 39px;
+    padding-bottom: 39px;
+    background-color: #598adf;
+}
+
+.menu_up_first {
+    color: #e90e0ef5;
+}
+
+.menu_up a {
+    font-style: normal;
+    font-weight: 600;
+    line-height: 22px;
+    color: #111010f5;
+    text-decoration: none;
+    margin: 12px;
+}
+
+.content_up {
+    margin: 22px;
+
+}
+
+.button_content_up {
+    margin: 32px;
+    padding: 5px;
+}
+
+.content_menu_up {
+    margin: 12px;
+    padding: 45px;
+
+}
